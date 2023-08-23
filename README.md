@@ -2,7 +2,7 @@
   
   
   
-# 🤗 Seja bem-vinde ao meu GitHub, é bom ter você por aqui! 
+# 🤗 Boas vindas ao meu GitHub, é bom ter você por aqui! 
 
   
 - 👩‍💻 Aprendendo mais a cada dia
