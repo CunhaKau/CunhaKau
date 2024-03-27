@@ -5,8 +5,8 @@
 # 🤗 Boas vindas ao meu GitHub, é bom ter você por aqui! 
 
   
-- 👩‍💻 Aprendendo mais a cada dia
-- 💓 Amando o mundo da tecnologia
+- 👩‍💻 Docente de Tecnologia
+
 
  ---
   
