@@ -17,8 +17,8 @@
 
  ---
  
-  
-  <a href="https://www.youtube.com/@kau.techOficial" target="_blank"><img src="https://raw.githubusercontent.com/CunhaKau/icones/main/youtube.png" target="_blank"></a> 
+  Acesse o meu canal no YouTube
+  <a href="https://www.youtube.com/@kau.techOficial" target="_blank"><img src="https://raw.githubusercontent.com/CunhaKau/icones/main/youtube.png" target="_blank" height="550px" width="550px"></a> 
   ---
 
 <div>
