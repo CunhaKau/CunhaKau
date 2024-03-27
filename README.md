@@ -15,8 +15,8 @@
 
 <b>Clique nos Ícones e conheça os meus trabalhos</b>
   
-  <a href="https://br.linkedin.com/in/kaucunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br/>
-  <a href="https://www.youtube.com/@kau.techOficial" target="_blank"><img src="https://raw.githubusercontent.com/CunhaKau/icones/main/youtube.png" title="youtube" alt="youtube" target="_blank" height="40" width="40"></a> 
+  <a href="https://br.linkedin.com/in/kaucunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@kau.techOficial" target="_blank"><img src="https://raw.githubusercontent.com/CunhaKau/icones/main/youtube.png" title="youtube" alt="youtube" target="_blank" height="60" width="60"></a> 
 
   
   ---
