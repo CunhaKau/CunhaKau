@@ -6,6 +6,9 @@
 
   
 - 👩‍💻 Docente de Tecnologia
+- 👩‍💻 Product Owner
+- 👩‍💻 Instrutora de Empresas
+- 👩‍💻 Analista de Dados
 
 
  ---
